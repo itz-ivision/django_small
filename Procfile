@@ -1,0 +1,1 @@
+web: gunicorn small_projects.wsgi
