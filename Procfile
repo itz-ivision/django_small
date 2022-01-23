@@ -1,1 +1,1 @@
-web: gunicorn small_projects.small_projects.wsgi
+web: gunicorn small_projects.wsgi
