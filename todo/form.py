@@ -1,6 +1,6 @@
 from django import forms
 
-# Draft comment
+
 class TodoForm(forms.Form):
     attributes = {
         'class':  'form-control',
